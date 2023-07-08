@@ -1,0 +1,7 @@
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\bin\Debug\ass1Assessment2.exe.config
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\bin\Debug\ass1Assessment2.exe
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\bin\Debug\ass1Assessment2.pdb
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\obj\Debug\ass1Assessment2.csproj.AssemblyReference.cache
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\obj\Debug\ass1Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\obj\Debug\ass1Assessment2.exe
+C:\Users\bhekanimasinga\Documents\ass1Assessment2\ass1Assessment2\obj\Debug\ass1Assessment2.pdb
